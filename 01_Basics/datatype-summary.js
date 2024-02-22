@@ -36,3 +36,8 @@ console.log(typeof myFunction);
 // type of primitive and non primitive data type  
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack (primitive) => gives copied value 
+// heap (non primitive) => gives original value referece,original value me change hoga 
